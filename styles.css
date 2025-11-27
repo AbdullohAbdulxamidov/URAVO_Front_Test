@@ -151,16 +151,12 @@ body {
     align-items: center;
     padding: 16px 24px;
     gap: 8px;
-
     width: 608px;
-    /* height: 77px; */
 
     background: linear-gradient(89.97deg, #D8663A 0.03%, #F8DA49 162.44%);
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.25);
     border-radius: 10px;
     border: none;
-
-    width: 608px;
     font-size: 28px;
     line-height: 160%;
     color: #FFFFFF;
@@ -195,7 +191,6 @@ body {
     align-items: center;
     padding: 0px;
     gap: 40px;
-
     flex: none;
     align-self: stretch;
     flex-grow: 0;
@@ -209,7 +204,6 @@ body {
     background: #FFFFFF;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.25);
     border-radius: 5px;
-
     flex: none;
     align-self: stretch;
     flex-grow: 1;
@@ -342,7 +336,6 @@ body {
     padding: 0px;
     gap: 20px;
     width: 520px;
-    /* height: 240px; */
 }
 
 .sb_1_table>div {
@@ -351,7 +344,6 @@ body {
     align-items: center;
     padding: 0px;
     width: 520px;
-    /* height: 176px; */
     border-radius: 10px;
 }
 
@@ -361,9 +353,7 @@ body {
     align-items: center;
     padding: 0px;
     isolation: isolate;
-
     width: 174.67px;
-    /* height: 176px; */
     border-radius: 10px;
     margin: 0px -2px;
 }
@@ -377,7 +367,6 @@ body {
     padding: 10px;
     gap: 10px;
     width: 174.67px;
-    /* height: 60px; */
 
     background: #F6F6F6;
     border: 2px solid #D9D9D9;
@@ -638,7 +627,6 @@ body {
     isolation: isolate;
     width: 80px;
     height: 90px;
-
     order: 2;
     background: #4A9C99;
     border-radius: 0px 0px 10px 10px;
@@ -693,7 +681,6 @@ body {
     align-items: flex-start;
     gap: 40px;
     margin-top: 40px;
-    /* width: 1160px; */
 }
 
 .eff_billing_box>div {
@@ -760,7 +747,6 @@ body {
     padding: 80px 130px;
     gap: 50px;
     margin: 0 10px;
-
     background: #F4F9F8;
     border-radius: 5px;
 }
@@ -815,14 +801,8 @@ body {
     align-items: center;
     padding: 10px 20px;
     gap: 10px;
-
     background: linear-gradient(0deg, #4A9C99, #4A9C99);
     border-radius: 5px;
-
-    flex: none;
-    order: 0;
-    align-self: stretch;
-    flex-grow: 0;
 
     font-size: 20px;
     line-height: 160%;
@@ -843,7 +823,6 @@ body {
 .cs_main_card_content>img {
     height: 40px;
 }
-
 
 
 /* Service fee */
@@ -875,7 +854,6 @@ body {
     display: flex;
     flex-direction: row;
     align-items: flex-start;
-    /* padding: 0px 140px; */
     background: #FFFFFF;
 }
 
@@ -885,8 +863,6 @@ body {
     align-items: center;
     padding: 0px;
     width: 1160px;
-    /* height: 236px; */
-
     background: #FFFFFF;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.25);
     border-radius: 10px;
@@ -1044,7 +1020,6 @@ body {
     padding: 0px;
     gap: 20px;
     width: 1160px;
-    /* height: 552px; */
 }
 
 .prices_table_1 {
@@ -1076,7 +1051,6 @@ body {
     padding: 24px 10px;
     gap: 10px;
     width: 100%;
-
     background: #D9EEEB;
     border: 2px solid #FFFFFF;
     margin: -2px 0px;
@@ -1096,7 +1070,6 @@ body {
     align-items: center;
     padding: 0px;
     width: 240.5px;
-
     background: #FFFFFF;
     border-radius: 10px;
     margin: 0px -2px;
@@ -1112,7 +1085,6 @@ body {
     align-items: center;
     padding: 10px;
     gap: 10px;
-
     background: #336E6D;
     border: 2px solid #D9D9D9;
     margin: -2px 0px;
@@ -1135,7 +1107,6 @@ body {
     padding: 24px 10px;
     gap: 10px;
     width: 100%;
-
     background: #FFFFFF;
     border: 2px solid #D9D9D9;
     margin: -2px 0px;
@@ -1152,9 +1123,6 @@ body {
     flex-direction: column;
     align-items: center;
     padding: 0px;
-    /* width: 184px; */
-    /* height: 552px; */
-
     background: #4A9C99;
     border: 6px solid #4A9C99;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.25);
@@ -1267,8 +1235,6 @@ body {
     flex-direction: row;
     padding: 10px 20px;
     gap: 10px;
-    /* width: 127px; */
-
     background: #F8DA49;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.25);
     border-radius: 5px;
@@ -1311,7 +1277,6 @@ body {
 .implement_section {
     display: flex;
     flex-direction: column;
-    /* align-items: center; */
     padding: 80px 0px;
     gap: 40px;
     background: #FFFFFF;
@@ -1369,8 +1334,6 @@ body {
 
 .step_count_line {
     display: flex;
-    /* justify-content: flex-start; */
-    /* align-items: flex-start; */
     width: 50px;
     height: 0px;
     border: 3px solid #DB703C;
@@ -1455,7 +1418,6 @@ body {
     width: 360px;
     padding: 10px 10px 20px;
     gap: 12px;
-
     background: #FFFFFF;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.25);
     border-radius: 5px;
